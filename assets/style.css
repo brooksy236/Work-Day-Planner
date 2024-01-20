@@ -34,7 +34,7 @@ header {
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;
+  border-bottom: 1px solid white;
 }
 
 .hour {
@@ -69,4 +69,11 @@ header {
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+}
+
+.example {
+  height: 200px;
+  width: auto;
+  background-color: #06aed5;
+  border: 5px solid blue;
 }
