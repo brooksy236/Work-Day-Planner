@@ -41,10 +41,11 @@ header {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  padding: 10px 5px 0 0;
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #192bd3;
   color: white;
 }
 
@@ -66,6 +67,12 @@ header {
   color: white;
 }
 
+i {
+  font-size: x-large;
+  color: #000000;
+  padding-top: 1em;
+}
+
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
@@ -76,4 +83,12 @@ header {
   width: auto;
   background-color: #06aed5;
   border: 5px solid blue;
+}
+
+.hours {
+  display: block;
+}
+
+.time {
+  
 }
