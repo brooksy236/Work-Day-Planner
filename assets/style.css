@@ -45,18 +45,18 @@ header {
 }
 
 .past {
-  background-color: #192bd3;
-  color: white;
+  background-color: #8892e9;
+  color: Black;
 }
 
 .present {
   background-color: #ff6961;
-  color: white;
+  color: black;
 }
 
 .future {
   background-color: #77dd77;
-  color: white;
+  color: black;
 }
 
 .saveBtn {
@@ -87,8 +87,4 @@ i {
 
 .hours {
   display: block;
-}
-
-.time {
-  
 }

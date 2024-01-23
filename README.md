@@ -11,7 +11,7 @@ Visit my Work-Day-Planner page here: https://brooksy236.github.io/Work-Day-Plann
 
 ## **Screenshots**
 
-
+![](assets/images/Screenshot_1.png)
 
 ## **Installation**
 
@@ -19,7 +19,7 @@ _N/A_
 
 ## **Usage**
 
-Click on a block to enter a task for that hour.
+Click on a block to enter a task for that hour and click the save button to store it in local storage.
 
 ## **License**
 
